@@ -1,0 +1,22 @@
+
+h1.salla,h3.salla{
+    text-align: center;
+    border: none;
+}
+
+h2.salla{
+    position: fixed;
+    bottom: 10px;
+    left: 50%;
+    transform: translate(-50%, 0);
+    border: none;
+}
+
+#content{
+    background-color: white;
+    margin-left: 10%;
+    width: 80%;
+    height: 70%;
+    overflow-y: scroll;
+    overflow-x: hidden
+}
